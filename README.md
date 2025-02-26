@@ -37,12 +37,12 @@
 🔹 **Features:** Live auction, real-time chat, authentication, dashboard  
 🔹 **Tech Stack:** React.js, Node.js, MongoDB, WebSockets  
 
-### 🏠 [Real Estate Management System](https://github.com/yourusername/real-estate-system)
+### 🏠 [Real Estate Management System]
 🏡 **A property listing and management system for buyers & sellers**  
 🔹 **Features:** Property listing, advanced search, agent profiles, authentication  
 🔹 **Tech Stack:** MERN Stack (MongoDB, Express.js, React.js, Node.js)  
 
-### 📖 [YMCA Program Registration System](https://github.com/yourusername/ymca-project)
+### 📖 [YMCA Program Registration System]
 📝 **A web app to manage YMCA programs and registrations**  
 🔹 **Features:** User authentication, program scheduling, validation checks  
 🔹 **Tech Stack:** MERN Stack 
