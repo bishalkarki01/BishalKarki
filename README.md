@@ -32,20 +32,20 @@
 
 ## 📌 Featured Projects
 
-### 🎯 [Bid Galleria - Live Auction Web App](https://github.com/yourusername/bid-galleria)
+### 🎯 [Bid Galleria - Live Auction Web App (Capstone Project)]
 🚀 **A web app for real-time online bidding.**  
 🔹 **Features:** Live auction, real-time chat, authentication, dashboard  
 🔹 **Tech Stack:** React.js, Node.js, MongoDB, WebSockets  
 
-### 🛰️ [Weather Radar AI (Capstone Project)](https://github.com/yourusername/weather-radar-ai)
-🌩️ **AI model for weather pattern detection using CNN**  
-🔹 **Features:** NEXRAD data processing, machine learning model, visualization  
-🔹 **Tech Stack:** Python, TensorFlow, OpenCV  
+### 🏠 [Real Estate Management System](https://github.com/yourusername/real-estate-system)
+🏡 **A property listing and management system for buyers & sellers**  
+🔹 **Features:** Property listing, advanced search, agent profiles, authentication  
+🔹 **Tech Stack:** MERN Stack (MongoDB, Express.js, React.js, Node.js)  
 
 ### 📖 [YMCA Program Registration System](https://github.com/yourusername/ymca-project)
 📝 **A web app to manage YMCA programs and registrations**  
 🔹 **Features:** User authentication, program scheduling, validation checks  
-🔹 **Tech Stack:** MERN Stack  
+🔹 **Tech Stack:** MERN Stack 
 
 ---
 
@@ -55,7 +55,7 @@
 
 ## 🤝 Connect With Me  
 📫 **Email:** your-email@example.com  
-🌍 **Portfolio:** [your-website.com](https://karkibishal.com.np)  
+🌍 **Portfolio:** [Karkibishal.com.np](https://karkibishal.com.np)  
 🎥 **YouTube:** [Nomadic Bishal](https://www.youtube.com/@NomadicBishal)  
 👥 **LinkedIn:** [Bishal Chhetri](https://www.linkedin.com/in/bishalkarki655/)  
 
