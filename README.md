@@ -55,11 +55,9 @@
 
 ## 🤝 Connect With Me  
 📫 **Email:** your-email@example.com  
-🌍 **Portfolio:** [your-website.com](https://your-website.com)  
-🎥 **YouTube:** [Nomadic Bishal](https://www.youtube.com/yourchannel)  
-👥 **LinkedIn:** [Bishal Chhetri](https://www.linkedin.com/in/yourprofile)  
+🌍 **Portfolio:** [your-website.com](https://karkibishal.com.np)  
+🎥 **YouTube:** [Nomadic Bishal](https://www.youtube.com/@NomadicBishal)  
+👥 **LinkedIn:** [Bishal Chhetri](https://www.linkedin.com/in/bishalkarki655/)  
 
 ---
-
-⭐ **If you like my work, consider giving a star to my repositories!**  
 💬 **Feel free to connect with me for collaborations and open-source contributions!**
