@@ -14,7 +14,7 @@
 - 💻 Specializing in **MERN Stack, React.js, and Web Development**
 - 🎥 YouTuber @Nomadic Bishal | Sharing experiences of international students & travel
 - 🎯 Currently working on **Bid Galleria - A Live Auction Web App**
-- 📚 Graduate Student | 3rd Semester | International Student Senate Member
+- 📚 Graduate Student | Graduate Student Senate Member
 
 ---
 
