@@ -55,7 +55,7 @@
 ---
 
 ## 🤝 Connect With Me  
-📫 **Email:** your-email@example.com  
+📫 **Email:** bishalkarki655@gmail.com  
 🌍 **Portfolio:** [Karkibishal.com.np](https://karkibishal.com.np)  
 🎥 **YouTube:** [Nomadic Bishal](https://www.youtube.com/@NomadicBishal)  
 👥 **LinkedIn:** [Bishal Chhetri](https://www.linkedin.com/in/bishalkarki655/)  
