@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Bishal Chhetri</h1>
+<h1 align="center">👋 Hi, I'm Bishal Karki</h1>
 <h3 align="center">🚀 Software Engineer | Graduate Student | Content Creator</h3>
 
 <p align="center">
