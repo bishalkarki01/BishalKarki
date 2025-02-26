@@ -2,9 +2,9 @@
 <h3 align="center">🚀 Software Engineer | Graduate Student | Content Creator</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="https://www.youtube.com/yourchannel"><img src="https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube"></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github"></a>
+  <a href="https://www.linkedin.com/in/bishalkarki655"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="https://www.youtube.com/@NomadicBishal"><img src="https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube"></a>
+  <a href="https://github.com/bishalkarki01"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github"></a>
 </p>
 
 ---
