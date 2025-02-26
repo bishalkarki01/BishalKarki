@@ -11,7 +11,7 @@
 
 ## 📌 About Me
 - 🌍 Passionate about **Travel, Tech, and Machine Learning**
-- 💻 Specializing in **MERN Stack, React.js, and Web Development**
+- 💻 Specializing in **MERN Stack, JAVA, ASP.NET, and Web Development**
 - 🎥 YouTuber @Nomadic Bishal | Sharing experiences of international students & travel
 - 🎯 Currently working on **Bid Galleria - A Live Auction Web App**
 - 📚 Graduate Student | Graduate Student Senate Member
